@@ -1,0 +1,48 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+}
+header{
+    text-transform: uppercase;
+}
+input{
+    margin-left: 2%;
+}
+button{
+    margin-top: 0%;
+}
+
+.etiqueta
+{
+    text-align: center;
+}
+.div-boton{
+    margin-left:50%;
+    margin-bottom: 5%;
+    margin-top: 0%;
+}
+.datos{
+    border-color: red;
+}
+.boton{
+    text-transform: uppercase;
+    background-color: blueviolet;
+    border-radius: 10%;
+    text-decoration: none;
+}
+legend{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: palevioletred;
+}
+.salidas{
+    text-transform: uppercase;
+    text-decoration-color: indigo;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+fieldset{
+    background-color: palevioletred;
+}
+
+
